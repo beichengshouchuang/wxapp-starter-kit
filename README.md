@@ -1,2 +1,2 @@
-# wxapp-starter-kit
-微信小程序模板
+# wxapp-admin
+后台管理
